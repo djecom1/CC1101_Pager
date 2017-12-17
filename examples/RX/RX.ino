@@ -1,6 +1,7 @@
 /*
    F4GMU PAGER bi-directional
    december 2017
+   RX
 */
 
 #include <Arduino.h>
